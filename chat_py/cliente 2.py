@@ -1,7 +1,5 @@
 import socket
 import random
-import threading
-from datetime import datetime
 
 
 def main():
